@@ -6,9 +6,6 @@ const Header = () => {
   return <header className='py-8'>
     <div className='container mx-auto'>
       <div className='flex justify-between items-center'>
-        {/* <a href='#'>
-          <img src={logo} alt='' />
-        </a> */}
 
         <h1 className='font-secondary font-semibold leading-5 tracking-widest drop-shadow-[2px_4px_4px_rgba(184,9,195,1)]'>Sarah Campbell</h1>
 
